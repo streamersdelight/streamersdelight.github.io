@@ -96,14 +96,14 @@ else{
 }
 
 if (rand == 0){
- search2 = searcher(gameTitle  + " " + "gamejolt " + "fangame gameplay");
+ search2 = searcher(gameTitle  + " " + "" + "fangame gamejolt");
 }
 else if (rand == 1){
- search2 = searcher(gameTitle  + " " + "gamejolt " + "fangame playthrough");
+ search2 = searcher(gameTitle  + " " + " " + "fangame playthrough");
 
 }
 else{
-	  search2 = searcher(gameTitle  + " " + "gamejolt" + " fan game walkthrough");
+	  search2 = searcher(gameTitle  + " " + "" + " fan game online");
 
 
 }
